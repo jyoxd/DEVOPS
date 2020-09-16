@@ -12,7 +12,7 @@ div h1{
     margin: 20px;
     padding: 20px;
     border-radius: 10px;
-    box-shadow: 10px 10px 20px black;
+    box-shadow: 10px 10px 20px rgb(13, 255, 33);
 }
 
 .posterimg{
@@ -21,13 +21,13 @@ div h1{
 }
 
 #poster1{
-    background-color: blue;
+    background-color: rgb(75, 75, 75);
 }
 
 #poster2{
-    background-color: blue;
+    background-color: rgb(13, 113, 228);
 }
 
 #poster3{
-    background-color: blue;
+    background-color: rgb(255, 0, 0);
 }
